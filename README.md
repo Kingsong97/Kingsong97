@@ -1,7 +1,5 @@
 ![header!](https://github.com/Kingsong97/Kingsong97/assets/161429740/d2f9d146-37f1-4bb2-a5e4-1509207a1d88)
 
-<p align="center">🇰🇷 🇦🇺 🇸🇬</p>
-
 <h3 align="center">🛠 Tech Stack 🛠</h3>
 
 <p align="center"> Techs that I've used at least once </p>
@@ -29,14 +27,12 @@
 
 <h3 align="center"> 🧸 Me 🧸 </h3>
 <p align="center">
+  <a href=""><img src="https://img.shields.io/badge/KakaoTalk-FFCD00?style=flat-square&logo=KakaoTalk&logoColor=white&link=https://www.instagram.com/woo0_hooo/"/></a>&nbsp
   <a href="https://www.instagram.com/s_mini.97/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/woo0_hooo/"/></a>&nbsp
-  <a href="mailto:viliketh1s98@naver.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=viliketh1s98@naver.com"/></a>
+  <a href="mailto:kingsongsm97@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=viliketh1s98@naver.com"/></a>
 </p>
 <br>
 
-<p align="center">
-  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwookyoungkim&count_bg=%23ED6DA3&title_bg=%2386757E&icon=github.svg&icon_color=%23E1DEDE&title=hits&edge_flat=false"/></a>
-</p>
 
 
 
