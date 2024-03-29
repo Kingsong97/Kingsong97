@@ -17,7 +17,6 @@
 
 <div align="center" style="text-align:center">
   
-  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=woo0_hooo&tag=기술면접대비)](https://velog.io/@woo0_hooo)
   [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=woo0_hooo)](https://velog.io/@woo0_hooo)
   
 </div>
@@ -32,4 +31,6 @@
   <a href="mailto:kingsongsm97@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=viliketh1s98@naver.com"/></a>
 </p>
 <br>
+
+
 
