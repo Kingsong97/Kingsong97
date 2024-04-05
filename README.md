@@ -17,7 +17,7 @@
 
 <div align="center" style="text-align:center">
   
-  [![Velog's GitHub stats](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsAE6XtGQ0PC1dsn7bT-vbic_c62qPqlel5A&s)]([https://velog.io/@woo0_hooo](https://kingsong97.github.io/))
+  ([블로그](https://kingsong97.github.io/))
   
 </div>
   
