@@ -19,6 +19,9 @@
   <img alt="Jquery" src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white" height="25px"/>
 </p>
 <br>
+<h2 alift="left">🐱‍👓My Study</h2>
+<p>[React - MP3 사이트]: (https://youtube-music-player-swart.vercel.app/)</p>  
+<p>[React - 헬스YOUTUBE 사이트] : (https://attraction-gamma.vercel.app/) </p>
 
 <h2 alift="left">😎My PROJECTS</h2>
 <p>[PHP - 아이돌 사진 사이트(For My Celeb)]: (http://wlsdks.dothome.co.kr/)</p>  
