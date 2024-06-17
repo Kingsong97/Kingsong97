@@ -21,7 +21,7 @@
 <br>
 
 <h2 alift="left">😎My PROJECTS</h2>
-<p>[PHP - 아이돌 사진 사이트(For My Celeb)]: (http://ssm971213.dothome.co.kr/)</p>  
+<p>[PHP - 아이돌 사진 사이트(For My Celeb)]: (http://wlsdks.dothome.co.kr/)</p>  
 <p>[React - 웹툰 모음 사이트] : (https://webtoon-react.vercel.app/) </p> 
 
 
