@@ -41,7 +41,7 @@
 <h3 align="center"> 🧸 Contact Me 🧸 </h3>
 <p align="center">
   <a href=""><img src="https://img.shields.io/badge/KakaoTalk-FFCD00?style=flat-square&logo=KakaoTalk&logoColor=white&link=https://www.instagram.com/woo0_hooo/"/></a>&nbsp
-  <a href="mailto:kingsongsm97@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=viliketh1s98@naver.com"/></a>
+  <a href="mailto:kingsongsm97@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=kingsongsm97@gmail.com"/></a>
 </p>
 <br>
 
