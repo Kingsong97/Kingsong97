@@ -22,6 +22,7 @@
 <h2 alift="left">🐱‍👓My Study</h2>
 <p>[React - MP3 사이트]: (https://youtube-music-player-swart.vercel.app/)</p>  
 <p>[React - 헬스YOUTUBE 사이트] : (https://attraction-gamma.vercel.app/) </p>
+<p>[Vue - 영화정보 사이트] : (https://vue-movie-gold.vercel.app/) </p>
 
 <h2 alift="left">😎My PROJECTS</h2>
 <p>[PHP - 아이돌 사진 사이트(For My Celeb)]: (http://wlsdks.dothome.co.kr/)</p>  
