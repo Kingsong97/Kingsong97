@@ -45,6 +45,10 @@
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kingsong97&theme=react-dark&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF" width=94%/>
 </a>
 
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/farms/Kingsong97"/>
+</a>
+
 <h3 align="center"> 🧸 Contact Me 🧸 </h3>
 <p align="center">
   <a href=""><img src="https://img.shields.io/badge/KakaoTalk-FFCD00?style=flat-square&logo=KakaoTalk&logoColor=white&link=https://www.instagram.com/woo0_hooo/"/></a>&nbsp
