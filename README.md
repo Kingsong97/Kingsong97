@@ -46,7 +46,7 @@
 </a>
 
 <a href="https://github.com/devxb/gitanimals">
-  <img width=1000 src="https://render.gitanimals.org/farms/Kingsong97"/>
+  <img width=94% src="https://render.gitanimals.org/farms/Kingsong97"/>
 </a>
 
 <h3 align="center"> 🧸 Contact Me 🧸 </h3>
