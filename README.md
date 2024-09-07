@@ -17,32 +17,6 @@
   <img alt="Jquery" src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white" height="25px"/>
 </p>
 <br>
-<h2 alift="left">🐱‍👓My Study</h2>
-<p>[React - MP3 사이트]: (https://youtube-music-player-swart.vercel.app/)<br/>
---Youtube API와 React를 활용하여 만든 음악재생 사이트입니다.
-</p>  
-<p>[React - 헬스YOUTUBE 사이트] : (https://attraction-gamma.vercel.app/)<br/>
---Youtube API와 React를 활용하여 만든 헬스관련 영상 사이트입니다.
-</p>
-<p>[Vue - 영화정보 사이트] : (https://vue-movie-gold.vercel.app/)<br/>
---TMDB와 Vue를 이용하여 만든 영화 정보모음 사이트입니다.
-</p>
-
-<h2 alift="left">😎My PROJECTs</h2>
-<p>[PHP - 아이돌 사진 사이트(For My Celeb)]: (http://wlsdks.dothome.co.kr/)<br/>
---PHP와 GSAP를 활용해 팀프로젝트를 진행한 아이돌 사진 사이트입니다.
-</p>  
-<p>[React - 웹툰 모음 사이트] : (https://webtoon-react.vercel.app/)<br/>
---Python과 React를 활용해 만든 웹툰 정보모음 사이트입니다.
-</p> 
-
-<h2 alift="left">👾My CODEs</h2>
-<p>[PHP - 아이돌 사진 사이트(For My Celeb)]: (https://github.com/Kingsong97/ForMyCeleb)</p> 
-<p>[React - 웹툰 모음 사이트] : (https://github.com/Kingsong97/webtoon_react)</p> 
-<p>[React - MP3 사이트]: (https://github.com/Kingsong97/youtube_music_player)</p>  
-<p>[React - 헬스YOUTUBE 사이트] : (https://github.com/Kingsong97/attraction) </p>
-<p>[Vue - 영화정보 사이트] : (https://github.com/Kingsong97/vue-movie) </p>
-
 
 <h2>💻Github Log</h2>
 <a href="https://github.com/anuraghazra/github-readme-stats">
